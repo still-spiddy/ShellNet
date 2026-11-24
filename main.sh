@@ -1,7 +1,11 @@
 #!/bin/bash
 while true; do
     clear
-    echo "===WELCOME TO OUR PROJECT==="
+    echo "   _____ __  __________    __   _   ______________"
+    echo "  / ___// / / / ____/ /   / /  / | / / ____/_  __/"
+    echo "  \\__ \\/ /_/ / __/ / /   / /  /  |/ / __/   / /   "
+    echo " ___/ / __  / /___/ /___/ /__/ /|  / /___  / /    "
+    echo "/____/_/ /_/_____/_____/____/_/ |_/_____/ /_/     "
     echo 
     echo "1) Show Network Interface"
     echo "2)Show IP Adresses"
